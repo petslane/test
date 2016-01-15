@@ -2,6 +2,7 @@
 
 /**
  * Test class
+ * test. test. test!
  */
 class test {
 
