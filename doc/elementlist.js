@@ -1,3 +1,3 @@
 
 var ApiGen = ApiGen || {};
-ApiGen.elements = [["c","test"]];
+ApiGen.elements = [["c","test"],["c","test2"]];
