@@ -2,7 +2,7 @@
 
 /**
  * Test class
- * test. test. test!
+ * test. test. test! test.
  */
 class test {
 
